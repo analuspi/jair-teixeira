@@ -25,15 +25,12 @@ h2 {
   color: #2980b9;
 }
 
-section,
+header,
 footer {
   padding: 50px 0;
 }
 
-.container {
-  display: inline-flex;
-  margin: 0 30px 0 30px;
-}
+
 
 /* HEADER
 ----------*/
@@ -63,14 +60,9 @@ header {
     background: rgba(138, 132, 135, 0.603);
     color: #fefefe;
     font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  
   }
 
-  .profile img {
-    border-radius: 50%;
-    width: 80%;
-  }
-
-  .bio {
-    max-width: 55%;
-    text-align: center;
-  }
+ 
