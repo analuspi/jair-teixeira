@@ -73,33 +73,32 @@ header {
 
 
 
-  /* PRIZES
+  /* DISCOGRAPHY
   ----------------------*/
-    .prizes {
+    .discography {
       background: #F5EDF0;
       
     }
   
-/* CONTACT & FOOTER 
---------------------*/
+  /* CONTACT & FOOTER 
+  --------------------*/
 
-footer {
-  background: 2A2A41;
-  color: #F5EDF0;
-  padding-top: 50px;
-  padding-bottom: 30px;
- }
+    footer {
+    background: 2A2A41;
+    color: #F5EDF0;
+    padding-top: 50px;
+    padding-bottom: 30px;
+  }
 
- .social a {
-  background: #F5EDF0;
-  color: #2B83BC;
-  border-radius: 50%;
-  margin: 10px;
-  padding: 18px;
-  
-}
+  .social a {
+    background: #F5EDF0;
+    color: #2B83BC;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 18px;
+  }
 
 
- footer h2 {
+  footer h2 {
    font-size: 24px;
    padding: 10px 0;  }
