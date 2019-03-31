@@ -72,12 +72,32 @@ header {
 
 
 
-
   /* DISCOGRAPHY
   ----------------------*/
     .discography {
       background: #F5EDF0;
       
+    }
+
+
+  /* CAROUSEL
+    ------------------ */
+
+    .carousel {
+      background: #2A2A41;
+    }
+
+    .carousel-item {
+      height: 450px;
+      }
+
+   
+   .carousel-item img {
+    max-width: 550px;
+      }
+
+    .slider img {
+      max-width: 400px;
     }
   
   /* CONTACT & FOOTER 
